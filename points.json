@@ -1,0 +1,24 @@
+[
+	{
+		"keypoints":[
+			{"score":0.99, "part":"nose","position":{"x":269.22,"y":125.81}},
+			{"score":0.99, "part":"leftEye","position":{"x": 287.11140738213106, "y": 94.9544927134588}},
+			{"score":0.99, "part":"rightEye","position":{"x":227.23768724959186, "y": 90.78930326101845}},
+			{"score":0.99, "part":"leftEar","position":{"x":329.1020306427655, "y": 123.72407010649893}},
+			{"score":0.99, "part":"rightEar","position":{"x": 191.9429920578977, "y": 116.4578516418368}},
+			{"score":0.99, "part":"leftShoulder","position":{"x":331.86793646830995, "y": 261.8487254747621}},
+			{"score":0.99, "part":"rightShoulder","position":{"x":127.73411563317136, "y": 246.11425451731404}},
+			{"score":0.99, "part":"leftElbow","position":{"x":365.3398518506655, "y": 428.28396723891973}},
+			{"score":0.99, "part":"rightElbow","position":{"x":137.96159974517525, "y": 496.9929471405564}},
+			{"score":0.99, "part":"leftWrist","position":{"x":372.19717699822746, "y": 328.4008351633985}},
+			{"score":0.99, "part":"rightWrist","position":{"x":286.60021964678043, "y": 335.7995206465517}},
+			{"score":0.09, "part":"leftHip","position":{"x":315.226239308309, "y": 543.4245567024914}},
+			{"score":0.09, "part":"rightHip","position":{"x":196.04915237797837, "y": 540.7767087847342}},
+			{"score":0.09, "part":"leftKnee","position":{"x": 307.65759989445314, "y": 518.883897559652}},
+			{"score":0.09, "part":"rightKnee","position":{"x":263.0752716955044, "y": 535.4873082795496}},
+			{"score":0.009, "part":"leftAnkle","position":{"x":314.45532356904175, "y": 522.4464724889525}},
+			{"score":0.009, "part":"rightAnkle","position":{"x":290.5325438642316, "y": 520.6055090714985}}
+		],
+		"score":0.8
+	}
+]
