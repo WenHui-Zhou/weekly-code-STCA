@@ -41,3 +41,36 @@
 477  汉明距离总和     [48.5%](http://48.5%/)  中等  
 
 338  比特位计数     [74.6%](http://74.6%/)  中等 
+
+
+
+### python中collections 模块常用函数
+
+collections模块提供了一些hash的计算方法，常用的如下：
+
+**Counter**
+
+用于统计数组中重复出现元素的个数：
+
+```python
+from collections import Counter
+nums = ['a','a','b']
+amap = Counter(nums) # amap = {'a':2,'b':1}
+```
+
+**defaultdict**
+
+```python
+from collections import defaultdict
+res = defaultdict(int)
+res['a'] += 1 # 不会出错，默认不存在的key的值为0，与普通的dict不同
+ans = defaultdict(list)
+res['a'] += [1,2] # 默认不存在key的值为[]
+```
+
+
+
+
+
+
+
