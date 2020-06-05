@@ -20,9 +20,10 @@
 771 Jewels and Stones
 393 UTF-8 Validation
 54 SpIral Matrix
-399 Evaluate Division
 139 Word Break
+829 Consecutive Numbers Sum
+399 Evaluate Division
 924 MInimize Maiware Spread
 159 Longest Substring with At Most Two Distinct Characters
-829 Consecutive Numbers Sum
 ```
+
