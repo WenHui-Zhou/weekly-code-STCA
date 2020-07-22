@@ -1,7 +1,7 @@
 ### 频繁度95-118题
 
 ```
-155 Mm Stack
+155 Mim Stack
 50 Pow(x, n)
 843 Guess the Word
 923 3Sum With Multiplicity
